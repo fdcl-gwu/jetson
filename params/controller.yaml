@@ -1,3 +1,6 @@
+name:
+    vicon: 'vicon/Jetson/Jetson'
+    ip: '192.168.10.27'
 port:
     i2c: [44, 41, 42 ,43]
 controller:
